@@ -26,7 +26,7 @@ Negative
 <img src="lr_fi_pos.png" width=80%>
 
 Feature Importances (Random Forest)
-<img src="rf_fr.png" width=80%>
+<img src="rf_fi.png" width=80%>
 
 
 ## For more Information

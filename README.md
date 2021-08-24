@@ -18,17 +18,15 @@ I use various Machine Learning algorithms to predict the possible reason behind 
 
 ## Results
 
+Top 10 Features (Logistic Regression)
+Positive
+<img src="lr_fi_neg.png" width=80%>
 
-## Conclusion
+Negative
+<img src="lr_fi_pos.png" width=80%>
 
-
-
-## Recommendations
-
-
-
-
-
+Feature Importances (Random Forest)
+<img src="rf_fr.png" width=80%>
 
 
 ## For more Information

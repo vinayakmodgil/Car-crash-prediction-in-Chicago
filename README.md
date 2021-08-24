@@ -33,7 +33,7 @@ I use various Machine Learning algorithms to predict the possible reason behind 
 
 ## For more Information
 
-See the full analysis in <a href="https://github.com/vinayakmodgil/dsc-phase-2-project/blob/master/student.ipynb">Jupyter Notebook</a>  or review this <a href="https://github.com/vinayakmodgil/dsc-phase-2-project/blob/master/presentation.pdf">presentation</a>.
+See the full analysis in <a href="https://github.com/vinayakmodgil/dsc-phase-3-project/blob/master/student.ipynb">Jupyter Notebook</a>  or review this <a href="https://github.com/vinayakmodgil/dsc-phase-3-project/blob/master/presentation.pdf">presentation</a>.
 
 For additional info, contact Vinayak Modgil at vinayak.modgil@gmail.com
 

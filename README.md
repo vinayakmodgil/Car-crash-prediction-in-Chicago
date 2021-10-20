@@ -1,5 +1,6 @@
 ## Final Project Submission
 
+
 ## Chicago Car Crashes
 
 ## Author: Vinayak Modgil
@@ -19,10 +20,10 @@ I use various Machine Learning algorithms to predict the possible reason behind 
 ## Results
 
 Top 10 Features (Logistic Regression)
-Positive
+Negative
 <img src="images/lr_fi_neg.png" width=80%>
 
-Negative
+Positive
 <img src="images/lr_fi_pos.png" width=80%>
 
 Feature Importances (Random Forest)

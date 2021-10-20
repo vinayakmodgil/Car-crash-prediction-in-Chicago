@@ -20,13 +20,13 @@ I use various Machine Learning algorithms to predict the possible reason behind 
 
 Top 10 Features (Logistic Regression)
 Positive
-<img src="lr_fi_neg.png" width=80%>
+<img src="images/lr_fi_neg.png" width=80%>
 
 Negative
-<img src="lr_fi_pos.png" width=80%>
+<img src="images/lr_fi_pos.png" width=80%>
 
 Feature Importances (Random Forest)
-<img src="rf_fi.png" width=80%>
+<img src="images/rf_fi.png" width=80%>
 
 
 ## For more Information
